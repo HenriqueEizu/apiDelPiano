@@ -1,0 +1,28 @@
+{
+  "name": "apidelpiano",
+  "version": "1.0.0",
+  "description": "Sisitema de Oficina Mecanica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueEizu/apiDelPiano.git"
+  },
+  "author": "Eizu Soluções",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueEizu/apiDelPiano/issues"
+  },
+  "homepage": "https://github.com/HenriqueEizu/apiDelPiano#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.17"
+  }
+}
